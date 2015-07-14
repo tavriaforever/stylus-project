@@ -1,0 +1,12 @@
+{
+  "name": "stylus-project",
+  "author": "tavriaforever@yandex.ru",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "stylus": "0.51.1"
+  }
+}
